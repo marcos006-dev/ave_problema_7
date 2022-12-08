@@ -8,6 +8,11 @@
 
 Elaborar un formulario de tareas que contenga la siguiente información: Nombre de la tarea, fecha, prioridad y descripción. Al aceptar en el formulario, la información se debe visualizar en una tabla que debe ubicarse debajo del formulario. Consideraciones:
 
+● Puedes agregar más elementos a la tabla, es decir más tareas.\
+● En la tabla debe poder editar o borrar algún elemento usando un ícono o
+funcionalidad acorde.\
+● El formulario debe tener un botón que lo limpie.
+
 ## Tecnologias
 
 - NodeJS v16.16.0
